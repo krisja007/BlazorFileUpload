@@ -1,0 +1,12 @@
+D:\Job\BlazorFileUpload\DataLibrary\bin\Debug\net7.0\DataLibrary.deps.json
+D:\Job\BlazorFileUpload\DataLibrary\bin\Debug\net7.0\DataLibrary.dll
+D:\Job\BlazorFileUpload\DataLibrary\bin\Debug\net7.0\DataLibrary.pdb
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.AssemblyReference.cache
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfoInputs.cache
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.AssemblyInfo.cs
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.csproj.CoreCompileInputs.cache
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.dll
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\refint\DataLibrary.dll
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\DataLibrary.pdb
+D:\Job\BlazorFileUpload\DataLibrary\obj\Debug\net7.0\ref\DataLibrary.dll

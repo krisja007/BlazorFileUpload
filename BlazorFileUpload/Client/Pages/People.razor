@@ -1,0 +1,18 @@
+﻿@page "/people"
+
+@using DataLibrary
+@inject IDataAccess _Data
+
+
+
+<h3>People</h3>
+
+@code {
+
+    protected override async Task OnInitializedAsync()
+    {
+        await _Data.LoadData
+    }
+
+
+}
