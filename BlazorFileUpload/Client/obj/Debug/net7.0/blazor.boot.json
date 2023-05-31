@@ -213,7 +213,7 @@
       "System.Private.CoreLib.dll": "sha256-pUYF+nr8SzfBMCLc3FM2i\/YivXJlzztdLin+aUsoqP0=",
       "BlazorFileUpload.Shared.dll": "sha256-7DTzLVXXJVnsM21b2hfpjtP3dJahnJ1MIY0wzHB6eWU=",
       "DataLibrary.dll": "sha256-NWhejFI0Wiax2qi0aG6Vphep+ZvrqvEwMj7Ze4AHnQY=",
-      "BlazorFileUpload.Client.dll": "sha256-txdxmO030kk5G8OJyp2MAevcFEKPUFfV+d+h\/L+r6ek="
+      "BlazorFileUpload.Client.dll": "sha256-KB5Fg\/1R2Zv0qFPKOP3pd1vjzTlZnRWTWSw8MBv7avo="
     },
     "extensions": null,
     "lazyAssembly": null,
@@ -221,7 +221,7 @@
     "pdb": {
       "DataLibrary.pdb": "sha256-pdebfqmRAwueKGaOjgLwRwEIQckxhjkgd5wEwA2kFAY=",
       "BlazorFileUpload.Shared.pdb": "sha256-eiCuInOFRL3JsMs072KrEv\/PwK\/YIRTc\/6BcIz39wGA=",
-      "BlazorFileUpload.Client.pdb": "sha256-PCBLkToS9iIN+IXIDLO+ALeMmKXq6VUU9W\/7gf+o100="
+      "BlazorFileUpload.Client.pdb": "sha256-B5jT6+DkgLf5L15sLtmyWlOv9r50bd5r9Qv8gsOYEco="
     },
     "runtime": {
       "dotnet.7.0.4.zrv72kqsns.js": "sha256-3l+4ZYRWpGMbBjNqeIqO9T\/65euaOzIvRlVX2SySvFQ=",

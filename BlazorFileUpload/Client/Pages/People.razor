@@ -7,13 +7,14 @@
 
 <h3>People</h3>
 
-@if (people == null)
+
+@if (dataperson == null)
 {
     <p><em>Loading...</em></p>
 }
 else
 {
-    @foreach (var p in people)
+    @foreach (var p in dataperson)
     {
         <p>
             @p.FristName @p.LastName
@@ -24,13 +25,14 @@ else
 
 
 @code {
-    List<PersonModel> people;
-
+    
+    List<PersonModel> dataperson;
+    
     protected override async Task OnInitializedAsync()
     {
         string sql = "SELECT * FROM `dataperson` ";
 
-        people = await _Data.LoadData<PersonModel, dynamic>(sql, new { }, _config.GetConnectionString("defualt"));
+        dataperson = await _Data.LoadData<PersonModel, dynamic>(sql, new { }, _config.GetConnectionString("default"));
 }
 
 
