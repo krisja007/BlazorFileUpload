@@ -30,7 +30,7 @@ else
     
     protected override async Task OnInitializedAsync()
     {
-        string sql = "SELECT * FROM `dataperson` ";
+        string sql = "SELECT * FROM `dataperson`";
 
         dataperson = await _Data.LoadData<PersonModel, dynamic>(sql, new { }, _config.GetConnectionString("default"));
 }
