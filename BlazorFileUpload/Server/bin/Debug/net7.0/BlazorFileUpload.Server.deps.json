@@ -483,6 +483,7 @@
       "BlazorFileUpload.Client/1.0.0": {
         "dependencies": {
           "BlazorFileUpload.Shared": "1.0.0",
+          "DataLibrary": "1.0.0",
           "Microsoft.AspNetCore.Components.WebAssembly": "7.0.4"
         },
         "runtime": {
